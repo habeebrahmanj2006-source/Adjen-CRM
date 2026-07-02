@@ -1,0 +1,6 @@
+{
+  "name": "Adjen Technologies",
+  "description": "A premium corporate website and integrated client/team CRM portal for Adjen Technologies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
